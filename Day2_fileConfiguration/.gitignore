@@ -9,12 +9,3 @@
 .terraform.lock.hcl
 # documents
 *.doc
-
-.terraform/
-*.tfstate
-*.tfstate.*
-
-.terraform/
-terraform.tfstate
-terraform.tfstate.backup
-.terraform.lock.hcl
