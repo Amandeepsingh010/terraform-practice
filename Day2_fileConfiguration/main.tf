@@ -3,7 +3,7 @@ resource "aws_instance" "name" {
     instance_type = var.instance_type
     subnet_id = var.subnet_id
     tags = {
-        Name = "dev-instance"
+        Name = "aman-instance"
     }
 }
 
